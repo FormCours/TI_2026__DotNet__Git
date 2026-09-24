@@ -11,6 +11,10 @@ Bienvenue dans le dépôt officiel de tout ce que le monde professionnel essaie 
 
 ---
 
+![Schema git](./ressources/schema.png)
+
+---
+
 ## 📋 Table des matières
 
 - [Philosophie du Projet](#-philosophie-du-projet)
